@@ -974,6 +974,10 @@ body {
     transition: .2s ease;
   }
 
+  .navbar-dropdown .link {
+    font-size: 13px;
+  }
+
   .dropdown:checked ~ .navbar-dropdown {
     max-height: 100vh;
     visibility: visible;
