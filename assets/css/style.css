@@ -1135,6 +1135,14 @@ body {
   .offer-img img {
     padding: 0;
   }
+
+  .contact-email {
+    padding: 40px 20px;
+  }
+
+  .contact-info {
+    padding: 40px;
+  }
 }
 
 @media screen and (min-width: 576px) {
